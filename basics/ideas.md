@@ -8,7 +8,7 @@ Everything in Updraft starts with an Idea. It can be an idea to make your neighb
 
 On Updraft, you will see a lot of Ideas from other people. You can search for them by text or by tags, and you can "watch" tags to save them for future searches.
 
-<figure><img src=".gitbook/assets/search-bar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/search-bar.png" alt=""><figcaption></figcaption></figure>
 
 ### Interest 🔥
 
