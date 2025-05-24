@@ -14,8 +14,6 @@ On Updraft, you will see a lot of Ideas from other people. You can search for th
 
 As people support Ideas, they grow in interest (🔥) , which makes them easier to find.
 
-Next, we'll talk about how to get a wallet and fund it with UPD, which is the token you'll use to support Ideas.
-
 {% content-ref url="using-a-wallet.md" %}
 [using-a-wallet.md](using-a-wallet.md)
 {% endcontent-ref %}
