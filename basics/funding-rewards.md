@@ -39,13 +39,21 @@ Contributors in the same cycle earn at the same rate, proportional to their cont
 
 * How much is contributed after your contribution.
 
-### For Supporting Ideas
+### For supporting Ideas
 
 After you've supported an idea, you can see your _position_ in that Idea, which tells you how much you've earned after subtracting the fees you paid.
 
-
+<figure><img src="../.gitbook/assets/Idea-Support.png" alt="" width="375"><figcaption></figcaption></figure>
 
 As a general rule, if more support is added to an Idea after your contribution than was added before, you will earn a profit.
 
-### For Funding Solutions
+### For funding Solutions
+
+When you fund a Solution, part of your contribution goes to the Solution Fund and part of it goes to past contributors as Funding Rewards.
+
+You will start to earn Funding Rewards in the next cycle (usually 12 hours).
+
+You can collect Funding Rewards as you earn them from the Solution page.
+
+
 
