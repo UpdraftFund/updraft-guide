@@ -12,8 +12,6 @@ Every public action taken on Updraft is done using a wallet.
 
 Creating Ideas, drafting Solutions, supporting other people's Ideas and Solutions, editing your public profile and sharing updates are all done with a wallet.
 
-A wallet's balance is public for everyone to see. In addition, your wallet is linked to your Updraft profile and activity.
-
 ## Choosing a wallet
 
 When you click on the "Connect Wallet" button in Updraft, you'll be greeted by a selection of 50 wallets. They have been vetted by [WalletConnect's WalletGuide](https://walletguide.walletconnect.network/), so you're safe to try any of them. If you don't like a wallet after trying it, you can transfer your account to a different wallet. We have placed some of our favorite wallets at the top of the list.
