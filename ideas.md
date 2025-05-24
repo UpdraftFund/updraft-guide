@@ -2,7 +2,7 @@
 
 ## Ideas
 
-Everything in Updraft starts with an Idea. It can be an idea to make your neighborhood better or improve a product or business. You can go as big or as small as you like with your idea.&#x20;
+Everything in Updraft starts with an Idea. It can be an idea to make your neighborhood better or improve a product or business. You can go as big or as small as you like with your Idea.&#x20;
 
 ### Finding Ideas
 
