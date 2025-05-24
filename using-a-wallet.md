@@ -34,7 +34,5 @@ Every action with a wallet requires at least one fee. You will typically see a p
 
 Most actions have a small fee, paid in UPD. All of these fees go to a pool that is paid to Updraft users who need a little UPD to try Updraft. You can currently collect a small amount of UPD from our Discord server.
 
-As the name suggests, anti-spam fees also help prevent Updraft from being overrun by spam by throttling would-be attackers.
-
-
+As the name suggests, anti-spam fees also help prevent Updraft from being overrun by spam.
 
