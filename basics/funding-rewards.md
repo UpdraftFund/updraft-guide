@@ -41,6 +41,10 @@ Contributors in the same cycle earn at the same rate, proportional to their cont
 
 ### For Supporting Ideas
 
+After you've supported an idea, you can see your _position_ in that Idea, which tells you how much you've earned after subtracting the fees you paid.
+
+
+
 As a general rule, if more support is added to an Idea after your contribution than was added before, you will earn a profit.
 
 ### For Funding Solutions
