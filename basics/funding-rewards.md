@@ -45,13 +45,17 @@ After you've supported an idea, you can see your _position_ in that Idea, which 
 
 <figure><img src="../.gitbook/assets/Idea-Support.png" alt="" width="375"><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 As a general rule, if more support is added to an Idea after your contribution than was added before, you will earn a profit.
+{% endhint %}
 
 ### For funding Solutions
 
 When you fund a Solution, part of your contribution goes to the Solution Fund and part of it goes to past contributors as Funding Rewards.
 
+{% hint style="info" %}
 You will start to earn Funding Rewards in the next cycle (usually 12 hours).
+{% endhint %}
 
 You can collect Funding Rewards as you earn them from the Solution page.
 
