@@ -13,7 +13,7 @@
 
 ## Advanced Topics
 
-* [🗺️ Campaigns](advanced-topics/campaigns.md)
+* [🚀 Campaigns](advanced-topics/campaigns.md)
 * [Sort order](advanced-topics/sort-order.md)
 
 ## Glossary
