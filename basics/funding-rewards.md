@@ -19,7 +19,7 @@ When someone drafts a Solution,  they can choose any percentage for the funding 
 If an Idea or Solution has a Funding Reward, you will pay that amount as a % fee when you make a contribution. It will be automatically deducted from your contribution transaction.
 
 {% hint style="info" %}
-Funders and supporters that contribute during the first _cycle_ of a new Idea or Solution (usually the first 12 hours), do not pay the funding reward fee. This also applies to the creator of an Idea.
+Contributions in the first _cycle_ of a new Idea or Solution (usually the first 12 hours) don't pay a Funding Reward fee. Idea creators also don't pay this fee.
 {% endhint %}
 
 ## Determining earnings
@@ -57,7 +57,7 @@ When you fund a Solution, part of your contribution goes to the Solution Fund an
 You will start to earn Funding Rewards in the next cycle (usually 12 hours).
 {% endhint %}
 
-You can collect Funding Rewards as you earn them from the Solution page.
+You can collect Funding Rewards from the Solution page as you earn them.
 
 
 
