@@ -20,7 +20,7 @@ Funders can add to the stake to entice other funders.
 
 Anyone who staked gets their full stake returned if a Solution is funded.
 
-## Reaching a funding goal 🎯
+## Reaching a funding goal
 
 When a funding goal is reached:
 
@@ -41,4 +41,3 @@ When a funding goal is not reached by the deadline set by the drafter, funders c
 {% hint style="info" %}
 Funders of a failed goal can also collect any remaining funding rewards.
 {% endhint %}
-
