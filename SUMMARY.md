@@ -14,8 +14,7 @@
 ## Advanced Topics
 
 * [🗺️ Campaigns](advanced-topics/campaigns.md)
-* [🔥 Interest](advanced-topics/interest.md)
-* [🍬 Sweetness](advanced-topics/sweetness.md)
+* [Sort order](advanced-topics/sort-order.md)
 
 ## Glossary
 
