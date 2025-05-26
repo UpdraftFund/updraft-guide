@@ -1,6 +1,6 @@
 # ⚒️ Updating a Solution
 
-You can edit a Solution you drafted from its page on Updraft to provide news to your funders or to extend a goal after it's been reached.
+You can edit a Solution you drafted from its page to provide news to your funders or to extend a goal after it's been reached.
 
 <figure><img src=".gitbook/assets/edit-solution.png" alt=""><figcaption><p>Edit a solution</p></figcaption></figure>
 
