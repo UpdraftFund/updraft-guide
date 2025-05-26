@@ -11,6 +11,10 @@
 * [👥 Profiles](basics/profiles.md)
 * [📃 Drafting a Solution](basics/drafting-a-solution.md)
 
+***
+
+* [⚒️ Updating a Solution](updating-a-solution.md)
+
 ## Advanced Topics
 
 * [🚀 Campaigns](advanced-topics/campaigns.md)

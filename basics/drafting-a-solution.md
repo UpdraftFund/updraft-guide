@@ -29,3 +29,11 @@ Shorter deadlines are attractive to funders because they know they can get a ref
 * How many tokens should you stake?
 
 A stake is an optional way to increase the chance of funding by offering an additional reward if the goal isn't met.
+
+* How high should I set the funding reward?
+
+This is a balance between allowing funders to earn and leaving more for your Solution.
+
+{% content-ref url="funding-rewards.md" %}
+[funding-rewards.md](funding-rewards.md)
+{% endcontent-ref %}
