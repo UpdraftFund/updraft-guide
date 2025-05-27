@@ -2,12 +2,12 @@
 
 If someone has a concrete plan to implement an Idea, they can draft a Solution to raise funds.
 
-## Funding rewards 🎁
+## Funder rewards 🎁
 
-Solution drafters can offer funding rewards.
+Solution drafters can offer funder rewards.
 
-{% content-ref url="funding-rewards.md" %}
-[funding-rewards.md](funding-rewards.md)
+{% content-ref url="funder-rewards.md" %}
+[funder-rewards.md](funder-rewards.md)
 {% endcontent-ref %}
 
 Funders can collect any rewards they've earned since the last time they collected.
@@ -39,5 +39,5 @@ When a funding goal is not reached by the deadline set by the drafter, funders c
 <figure><img src="../.gitbook/assets/solution-position-goal-failed.png" alt=""><figcaption><p>Refunding a Position</p></figcaption></figure>
 
 {% hint style="info" %}
-Funders of a failed goal can also collect any remaining funding rewards.
+Funders of a failed goal can also collect any remaining funder rewards.
 {% endhint %}

@@ -5,7 +5,7 @@
 * [🪁 Updraft](README.md)
 * [💡 Ideas](basics/ideas.md)
 * [Using a wallet](basics/using-a-wallet.md)
-* [🎁 Funding rewards](basics/funding-rewards.md)
+* [🎁 Funder rewards](basics/funder-rewards.md)
 * [✅ Supporting an Idea](basics/supporting-an-idea.md)
 * [💸 Funding a Solution](basics/funding-a-solution.md)
 * [👥 Profiles](basics/profiles.md)
@@ -20,6 +20,10 @@
 * [🚀 Campaigns](advanced-topics/campaigns.md)
 * [Sort order](advanced-topics/sort-order.md)
 
-## Glossary
+## Appendix
 
-* [📖 Glossary](glossary/glossary.md)
+* [📖 Glossary](appendix/glossary.md)
+
+***
+
+* [🔗 Links](links.md)

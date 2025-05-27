@@ -38,11 +38,10 @@ Most actions have a small fee, paid in UPD. All of these fees go to a pool that 
 
 As the name suggests, anti-spam fees also help prevent Updraft from being overrun by spam.
 
-#### Funding rewards
+#### Funder rewards
 
-Some actions may incur a "Funding reward" fee, which is paid to previous contributors for discovering good Ideas and Solutions early.
+Some actions may incur a _funder reward_ fee, which is paid to previous contributors for discovering good Ideas and Solutions early.
 
-{% content-ref url="funding-rewards.md" %}
-[funding-rewards.md](funding-rewards.md)
+{% content-ref url="funder-rewards.md" %}
+[funder-rewards.md](funder-rewards.md)
 {% endcontent-ref %}
-
