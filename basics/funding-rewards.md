@@ -59,4 +59,4 @@ When you fund a Solution, part of your contribution goes to the Solution Fund an
 You will start to earn funder rewards in the next cycle (12 hours).
 {% endhint %}
 
-You can collect funding rewards from the Solution page as you earn them.
+You can collect funder rewards from the Solution page as you earn them.

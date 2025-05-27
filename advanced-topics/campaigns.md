@@ -38,7 +38,7 @@ Ideas using your tag combination are ordered by 🔥, which signifies community 
 
 An airdrop is a great way to reward participants for showing interest in your campaign, and one of the two main ways of using committed funds.
 
-Just below the "Fund" button is a checkbox for "Airdrop". By using this checkbox, you're forgoing funding rewards and airdropping the entire amount of your transaction on past supporters of this Idea.
+Just below the "Fund" button is a checkbox for "Airdrop". By using this checkbox, you're forgoing funder rewards and airdropping the entire amount of your transaction on past supporters of this Idea.
 
 Like all Idea funding, airdrops are done using UPD.
 

@@ -23,6 +23,6 @@ When drafting a Solution, you'll need to answer the following questions.
 * How high should you set the funder reward?
   * A funder reward allows funders to earn a percentage of contributions that come after theirs. Setting this is a balance between rewarding funders and leaving more for your Solution.
 
-{% content-ref url="funder-rewards.md" %}
-[funder-rewards.md](funder-rewards.md)
+{% content-ref url="funding-rewards.md" %}
+[funding-rewards.md](funding-rewards.md)
 {% endcontent-ref %}

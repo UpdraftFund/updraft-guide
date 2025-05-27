@@ -2,17 +2,17 @@
 
 If someone has a concrete plan to implement an Idea, they can draft a Solution to raise funds.
 
-## Funder rewards 🎁
+## 🎁 Funder rewards&#x20;
 
 Solution drafters can offer funder rewards.
 
-{% content-ref url="funder-rewards.md" %}
-[funder-rewards.md](funder-rewards.md)
+{% content-ref url="funding-rewards.md" %}
+[funding-rewards.md](funding-rewards.md)
 {% endcontent-ref %}
 
 Funders can collect any rewards they've earned since the last time they collected.
 
-## Stake 💎
+## 💎 Stake
 
 Drafters can offer another incentive to funders known as a _stake_. A stake is divided among funders in proportion to their contributions if the Solution doesn't reach its funding goal by the deadline set by the drafter.
 
@@ -34,7 +34,7 @@ If a Solution Drafter extends their funding goal, all funders' positions remain 
 
 ## Failing a funding goal
 
-When a funding goal is not reached by the deadline set by the drafter, funders can claim a full refund plus their portion of the stake 💎.
+When a funding goal is not reached by the deadline set by the drafter, funders can claim a full refund plus their portion of the 💎 stake.
 
 <figure><img src="../.gitbook/assets/solution-position-goal-failed.png" alt=""><figcaption><p>Refunding a Position</p></figcaption></figure>
 

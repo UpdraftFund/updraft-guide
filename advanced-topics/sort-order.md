@@ -28,11 +28,15 @@ $$
 
 ### 🍬 Sweetness
 
-The default sort order for Solutions is a hidden field called 🍬 _sweetness._ 🍬 Sweetness connotes a good deal for Solution funders. 🍬 Sweetness is calculated by multiplying the current amount staked in the Solution by the funding reward percentage offered by the Solution drafter.
+The default sort order for Solutions is a hidden field called 🍬 _sweetness._ 🍬 Sweetness connotes a good deal for Solution funders. 🍬 Sweetness is calculated by multiplying the current amount staked in the Solution by the funder reward percentage offered by the Solution drafter.
 
 $$
-sweetness = fundingRewardPercentage * stake
+sweetness = funder RewardPercentage * stake
 $$
+
+
+
+
 
 {% content-ref url="../basics/funding-a-solution.md" %}
 [funding-a-solution.md](../basics/funding-a-solution.md)
