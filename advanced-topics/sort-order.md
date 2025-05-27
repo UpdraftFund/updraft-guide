@@ -28,7 +28,7 @@ $$
 
 ### 🍬 Sweetness
 
-The default sort order for Solutions is a hidden field called 🍬 _sweetness._ 🍬 Sweetness connotes a good deal for Solution funders. 🍬 Sweetness is calculated by multiplying the current amount staked in the Solution by the funder reward percentage offered by the Solution drafter.
+The default sort order for Solutions is a hidden field called 🍬 _sweetness._ Sweetness connotes a good deal for Solution funders. Sweetness is calculated by multiplying the current amount 💎 staked in the Solution by the 🎁 funder reward percentage offered by the Solution drafter.
 
 $$
 sweetness = funder RewardPercentage * stake

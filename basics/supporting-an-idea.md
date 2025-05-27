@@ -10,11 +10,11 @@ You also have the potential to earn 🎁 funder rewards for creating or supporti
 
 ## Positions
 
-Each time you support an Idea, you create a position in that Idea.
+Each time you support an Idea, you create a _position_ in that Idea.
 
 <figure><img src="../.gitbook/assets/Idea-support-positive.png" alt="" width="375"><figcaption><p>An Idea Position</p></figcaption></figure>
 
-When you withdraw from a position, you receive your original contribution, minus any funder reward and anti-spam fees you paid, plus any amount you earned from fees.
+When you withdraw from a position, you receive your original contribution, minus any 🎁 funder reward and anti-spam fees you paid, plus any amount you earned from 🎁 funder rewards.
 
 {% hint style="info" %}
 The default 🎁 funder reward for Ideas is 5%. The anti-spam fee is typically 1%.
