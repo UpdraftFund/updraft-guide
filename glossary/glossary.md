@@ -32,4 +32,4 @@
 * **Support** - A _contribution_ to an Idea.
 * 🍬 **Sweetness** - The product of a Solution's 💎 &#x73;_&#x74;ake_ and its 🎁 &#x66;_&#x75;nder reward._ Used to order Solution&#x73;_._
 * **Tags** - Words or phrases used to categorize Ideas. _Campaigns_ can use combinations of tags to help people find related Ideas and Solutions.
-* **Wallet** - Holds funds related to an _address,_ and allows a person or team to take actions on Updraf&#x74;_._
+* **Wallet** - Holds funds related to an _address_ and allows a person or team to take actions on Updraf&#x74;_._
