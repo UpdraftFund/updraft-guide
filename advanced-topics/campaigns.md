@@ -1,6 +1,6 @@
 # 🚀 Campaigns
 
-Campaigns commit funds to funding Ideas and Solutions that fit a certain theme or topic.
+Campaigns commit funds towards a certain theme or topic.
 
 ## Tasks Section
 
@@ -40,15 +40,10 @@ An airdrop is a great way to reward participants for showing interest in your ca
 
 Just below the "Fund" button is a checkbox for "Airdrop". By using this checkbox, you're forgoing funder rewards and airdropping the entire amount of your transaction on past supporters of this Idea.
 
-Like all Idea funding, airdrops are done using UPD.
+Like other Idea funding, airdrops are done using UPD.
 
 ### Funding Solutions
 
 Idea pages list Solutions that have been proposed for that Idea. Each Solution represents a concrete proposal to implement an Idea.
 
 You should use your committed funds to fund high quality Solutions that are nearing their funding deadline.
-
-
-
-
-
