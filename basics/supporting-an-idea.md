@@ -24,4 +24,4 @@ The default 🎁 funder reward for Ideas is 5%. The anti-spam fee is typically 1
 
 Because the earning potential of a position increases over time, when you add more support, you create another position. Each position must be withdrawn separately.
 
-<figure><img src="../.gitbook/assets/idea-support-multiple-positions.png" alt=""><figcaption><p>Multiple Idea Positions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/idea-support-multiple-positions.png" alt="" width="416"><figcaption><p>Multiple Idea Positions</p></figcaption></figure>

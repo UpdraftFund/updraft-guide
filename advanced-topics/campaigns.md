@@ -28,6 +28,8 @@ When creating a campaign, please provide
 
 Clicking the action button on the Campaign card in the Tasks section will take participants to the "search by tags" results for the tag combination used by the Campaign.
 
+<figure><img src="../.gitbook/assets/tag-combination.png" alt="" width="332"><figcaption></figcaption></figure>
+
 Ideas using your tag combination are ordered by 🔥, which signifies community interest.
 
 {% content-ref url="sort-order.md" %}
@@ -37,6 +39,8 @@ Ideas using your tag combination are ordered by 🔥, which signifies community 
 ### Airdrops
 
 An airdrop is a great way to reward participants for showing interest in your campaign, and one of the two main ways of using committed funds.
+
+<figure><img src="../.gitbook/assets/airdrop.png" alt=""><figcaption></figcaption></figure>
 
 Just below the "Fund" button is a checkbox for "Airdrop". By using this checkbox, you're forgoing funder rewards and airdropping the entire amount of your transaction on past supporters of this Idea.
 

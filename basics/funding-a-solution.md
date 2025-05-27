@@ -36,7 +36,7 @@ If a Solution Drafter extends their funding goal, all funders' positions remain 
 
 When a funding goal is not reached by the deadline set by the drafter, funders can claim a full refund plus their portion of the 💎 stake.
 
-<figure><img src="../.gitbook/assets/solution-position-goal-failed.png" alt=""><figcaption><p>Refunding a Position</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/solution-position-goal-failed.png" alt="" width="315"><figcaption><p>Refunding a Position</p></figcaption></figure>
 
 {% hint style="info" %}
 Funders of a failed goal can also collect any remaining funder rewards.
