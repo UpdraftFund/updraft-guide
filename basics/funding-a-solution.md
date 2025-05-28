@@ -18,7 +18,7 @@ Drafters can offer another incentive to funders known as a _stake_. A stake is d
 
 Funders can add to the stake to entice other funders.
 
-Anyone who staked gets their full stake returned if a Solution is funded.
+Anyone who staked gets their full stake returned if a Solution is reaches its funding goal.
 
 ## Reaching a funding goal
 
