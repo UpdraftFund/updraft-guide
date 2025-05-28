@@ -38,7 +38,7 @@ Ideas using your tag combination are ordered by 🔥, which signifies community 
 
 ### Airdrops
 
-An airdrop is a great way to reward participants for showing interest in your campaign, and one of the two main ways of using committed funds.
+An airdrop is a great way to reward participants for showing interest in your campaign. It's one of the two main ways to use committed funds.
 
 <figure><img src="../.gitbook/assets/airdrop.png" alt=""><figcaption></figcaption></figure>
 
