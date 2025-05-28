@@ -1,6 +1,6 @@
 # 🚀 Campaigns
 
-Campaigns are funds committed to promote a theme or topic.
+Campaigns direct attention toward a theme or topic by committing funds to reward participants through _airdrops_ and funding solutions.
 
 ## Tasks Section
 
@@ -48,6 +48,6 @@ Like other Idea funding, airdrops are done using UPD.
 
 ### Funding Solutions
 
-Idea pages list Solutions that have been proposed for that Idea. Each Solution represents a concrete proposal to implement an Idea.
+Idea pages list Solutions that have been proposed for that Idea. Each Solution represents a concrete proposal to implement the Idea.
 
 You should use your committed funds to fund high quality Solutions that are nearing their funding deadline.
