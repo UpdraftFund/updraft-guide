@@ -14,7 +14,7 @@ Creating Ideas, drafting Solutions, supporting other people's Ideas and Solution
 
 ## Choosing a wallet
 
-When you click on the "Connect Wallet" button in Updraft, you'll be greeted by a selection of 50 wallets. They have been vetted by [WalletConnect's WalletGuide](https://walletguide.walletconnect.network/), so you're safe to try any of them. If you don't like a wallet after trying it, you can transfer your account to a different wallet. I've chosen three wallets that I use regularly and placed them at the top of the list.
+When you click on the "Connect Wallet" button in Updraft, you'll be greeted by a selection of 40 wallets. They have been vetted by [WalletConnect's WalletGuide](https://walletguide.walletconnect.network/), so you're safe to try any of them. If you don't like a wallet after trying it, you can transfer your account to a different wallet. In the "Connect a Wallet" beginner task on the home page, I included links to four wallets that I use regularly.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-05-23 at 8.17.29 PM.png" alt="" width="172"><figcaption><p>These wallets are safe to use</p></figcaption></figure>
 
@@ -34,7 +34,7 @@ Every action with a wallet requires at least one fee. You will typically see a p
 
 #### Anti-spam fees
 
-Most actions have a small fee, paid in UPD. All of these fees go to a pool that is paid to Updraft users who need a little UPD to try Updraft. You can currently collect a small amount of UPD from our Discord server.
+Most actions have a small fee, paid in UPD. All fees go to a faucet that provides UPD for people to use Updraft. You can collect your share of this faucet from our Discord server.
 
 As the name suggests, anti-spam fees also help prevent Updraft from being overrun by spam.
 
