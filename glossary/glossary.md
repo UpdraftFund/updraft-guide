@@ -8,7 +8,7 @@
   * percentage fee - a percentage fee paid when creating or supporting an Idea.
 * **Campaign** - Committed funds plus a set of tags that identify a concerted effort to fund Ideas and Solutions fitting a certain theme or topic.
 * **Committed funds** - funds that a _campaign_ has set aside to fund related Ideas or Solutions.
-* **Contract owners** - The people who can set the following for Updraft.
+* **Contract owners** - set the following for Updraft.
   * _Accrual Rate_
   * _Cycle_ length
   * _Fee token_ address (UPD)
