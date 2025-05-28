@@ -26,10 +26,10 @@
 * **Idea** - An idea to change your community, your project or the world.
 * 🔥 **Interest** - How much support an Idea has over time. More concretely, it's the sum of the _shares_ of all the _positions_ in an Idea.
 * **Position** - A person's _contribution_ to an Idea or Solution. Can be withdrawn (in the case of Ideas), or refunded (in the case of a failed Solution). 🎁 _Funder rewards_ and 💎 _stakes_ can be collected in some cases. A position's _shares_ (earning potential) grows linearly each _cycle_.
-* **Shares** - A position's potential to earn 🎁 _funder rewards_ and 💎 _stakes._
+* **Shares** - A position's potential to earn 🎁 _funder rewards_ and 💎 _stakes._ It's the original contribution times the number of _cycles_ that have passe&#x64;_._
 * **Solution** - A concrete plan to implement an _Idea_.
 * 💎 **Stake** - UPD set aside by a Solution drafter to be divided among funders if the Solution fails to reach its funding goal by its deadline. 💎 Stake from a failed goal is divided proportionally among funders according to their _shares_ in the Solution.
 * **Support** - A _contribution_ to an Idea.
 * 🍬 **Sweetness** - The product of a Solution's 💎 &#x73;_&#x74;ake_ and its 🎁 &#x66;_&#x75;nder reward._ Used to order Solution&#x73;_._
-* **Tags** - Words or phrases used to categorize Ideas. _Campaigns_ can use combinations of tags to help people find related Ideas and Solutions.
+* **Tags** - Words or phrases used to categorize Ideas. _Campaigns_ use combinations of tags to help people find related Ideas and Solutions.
 * **Wallet** - Holds funds related to an _address_ and allows a person or team to take actions on Updraf&#x74;_._
