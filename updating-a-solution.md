@@ -18,7 +18,7 @@ If your solution reaches its goal, you have the opportunity to extend the goal a
 If you extend a goal:
 
 * all previously contributed funds will automatically be withdrawn to your wallet.
-* all funders' positions will remain intact and continue to grow in earning potential.
+* all funders' positions will remain intact and can continue to earn 🎁 funder rewards, but contributions made before the goal was extended will no longer be refundable.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/extend-goal.png" alt=""><figcaption></figcaption></figure>

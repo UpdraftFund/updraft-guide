@@ -29,7 +29,7 @@ When a funding goal is reached:
 * The drafter can choose to set a new funding goal and extend the deadline.
 
 {% hint style="info" %}
-If a Solution Drafter extends their funding goal, they automatically claim all funds up to that point. All funders' positions remain intact and can earn fees for the funder, but contributions before the goal was extended are no longer refundable.
+If a Solution Drafter extends their funding goal, they automatically claim all funds up to that point. All funders' positions remain intact and can continue to earn 🎁 funder rewards, but contributions made before the goal was extended are no longer refundable.
 {% endhint %}
 
 ## Failing a funding goal
