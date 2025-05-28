@@ -22,7 +22,7 @@
 * **Drafter** - The creator of a Solution.
 * 🚰 **Faucet** - A pool of UPD tokens used to help people get started using Updraft.
 * **Fee token** - The token that is used to support Ideas and pay _anti-spam fees_ and _funder rewards_. This is UPD.
-* 🎁 **Funder reward** - A percentage of each _contribution_ that goes to past contributor&#x73;_._ The default 🎁 funder reward is 5% for Ideas. It may be set between 0% and 80% for Solutions. The 🎁 funder reward is an opportunity for supporters and funders to earn money.
+* 🎁 **Funder reward** - A percentage of each _contribution_ that goes to past contributor&#x73;_._ The default 🎁 funder reward is 5% for Ideas. It may be set to any % (including 0) for Solutions. The 🎁 funder reward is an opportunity for supporters and funders to earn money.
 * **Idea** - An idea to change your community, your project or the world.
 * 🔥 **Interest** - How much support an Idea has over time. More specifically, it's the sum of the _shares_ of all the _positions_ in an Idea.
 * **Position** - A person's _contribution_ to an Idea or Solution. Can be withdrawn (in the case of Ideas), or refunded (in the case of a failed Solution). 🎁 _Funder rewards_ and 💎 _stakes_ can be collected in some cases. A position's _shares_ (earning potential) grows linearly each _cycle_.
