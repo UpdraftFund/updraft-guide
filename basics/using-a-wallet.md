@@ -20,11 +20,7 @@ When you click on the "Connect Wallet" button in Updraft, you'll be greeted by a
 
 ## Funding and using a wallet
 
-If you need help funding and using your wallet, please visit our [chat server (Discord)](https://discord.gg/2fTMceFmns). Members will help you get the tokens you need--especially UPD, which is used for most actions in Updraft.
-
-{% embed url="https://discord.gg/2fTMceFmns" %}
-Join our Discord server to receive help and free UPD tokens
-{% endembed %}
+If you need help funding and using your wallet, please visit our [chat server (Discord)](https://discord.gg/mQJ58MY6Nz). Members will help you get the tokens you need--especially UPD, which is used for most actions in Updraft.
 
 ### Fees
 
@@ -34,7 +30,7 @@ Every action with a wallet requires at least one fee. You will typically see a p
 
 #### Anti-spam fees
 
-Most actions have a small fee, paid in UPD. All fees go to a faucet that provides UPD for people to use Updraft. You can collect your share of this faucet from our Discord server.
+Most actions have a small fee, paid in UPD. All fees go to a faucet that provides UPD for people to use Updraft. You can collect your share of this faucet from our [Discord server](https://discord.gg/mQJ58MY6Nz).
 
 As the name suggests, anti-spam fees also help prevent Updraft from being overrun by spam.
 
