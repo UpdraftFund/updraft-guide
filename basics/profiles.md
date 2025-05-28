@@ -20,5 +20,5 @@ You can have separate profiles for yourself and each organization or team you wo
 
 Following a person or team adds their activity to the "Followed" tab of the discover page, so you can easily find Ideas supported by those you follow.
 
-<figure><img src="../.gitbook/assets/follow-tab.png" alt="" width="375"><figcaption><p>Followed tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/follow-tab.png" alt="" width="563"><figcaption><p>Followed tab</p></figcaption></figure>
 
