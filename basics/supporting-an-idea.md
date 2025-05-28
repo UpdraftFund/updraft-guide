@@ -1,6 +1,6 @@
 # ✅ Supporting an Idea
 
-When you support an Idea, you show that you would like to see it implemented. You raise awareness for it by your support. The Idea's 🔥 interest increases, which make it more visible to other people, and more likely that people will draft Solutions for it.
+When you support an Idea, you show that you would like to see it implemented. You raise awareness for it by your support. The Idea's 🔥 interest increases, which makes it more visible to other people, and more likely that people will draft Solutions for it.
 
 You also have the potential to earn 🎁 funder rewards for creating or supporting an Idea.
 
