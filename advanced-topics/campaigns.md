@@ -1,6 +1,6 @@
 # 🚀 Campaigns
 
-Campaigns commit funds towards a certain theme or topic.
+Campaigns are funds committed to promote a theme or topic.
 
 ## Tasks Section
 
