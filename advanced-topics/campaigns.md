@@ -1,5 +1,7 @@
 # 🚀 Campaigns
 
+<figure><img src="../.gitbook/assets/campaign.png" alt=""><figcaption><p>A Campaign Card</p></figcaption></figure>
+
 Campaigns direct attention toward a theme or topic by committing funds to reward participants through _airdrops_ and funding solutions.
 
 ## Tasks Section
