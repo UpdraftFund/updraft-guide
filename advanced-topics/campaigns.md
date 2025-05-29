@@ -24,27 +24,23 @@ When creating a campaign, please provide
 * Tag combination
   * What tag combination should people apply to their Ideas and Solutions to take part in the campaign? — For example, a campaign to build reputation solutions for Aura, might use "aura" and "reputation" as its tags.
 
-## Applying committed funds
+## Finding Ideas and Solutions related to a Campaign
 
-### Finding Ideas and Solutions
+Clicking the action button on the Campaign leads to the "search by tags" results for the tag combination used by the Campaign.
 
-Clicking the action button on the Campaign card in the Tasks section will take participants to the "search by tags" results for the tag combination used by the Campaign.
-
-<figure><img src="../.gitbook/assets/tag-combination.png" alt="" width="332"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tag-combination.png" alt=""><figcaption></figcaption></figure>
 
 Ideas using your tag combination are ordered by 🔥, which signifies community interest.
 
-{% content-ref url="sort-order.md" %}
-[sort-order.md](sort-order.md)
-{% endcontent-ref %}
+## Applying committed funds
 
 ### Airdrops
 
-An airdrop is a great way to reward participants for showing interest in your campaign. It's one of the two main ways to use committed funds.
+Airdrops are one of the two main ways to use committed funds to reward participants for showing interest in your campaign.
 
 <figure><img src="../.gitbook/assets/airdrop.png" alt=""><figcaption></figcaption></figure>
 
-Just below the "Fund" button is a checkbox for "Airdrop". By using this checkbox, you're forgoing funder rewards and airdropping the entire amount of your transaction on past supporters of this Idea.
+On an Idea page, just below the "Support Idea" button is a checkbox for "Airdrop". By using this checkbox, you airdrop the entire amount of your transaction to past supporters of this Idea.
 
 Like other Idea funding, airdrops are done using UPD.
 
