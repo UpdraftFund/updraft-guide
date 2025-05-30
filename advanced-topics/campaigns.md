@@ -1,12 +1,12 @@
 # 🚀 Campaigns
 
+<figure><img src="../.gitbook/assets/campaign.png" alt=""><figcaption><p>A Campaign Card</p></figcaption></figure>
+
 Campaigns direct attention toward a theme or topic by committing funds to reward participants through _airdrops_ and funding solutions.
 
 ## Tasks Section
 
 Campaigns are visible in the Tasks section of the home page. They are ordered by the value of the committed funds.
-
-<figure><img src="../.gitbook/assets/campaign.png" alt=""><figcaption><p>A Campaign Card</p></figcaption></figure>
 
 ## Creating a campaign
 
