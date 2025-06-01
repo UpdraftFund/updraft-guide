@@ -4,7 +4,7 @@ icon: chart-network
 
 # Networks
 
-By creating or supporting Ideas with the tags \[updraft] \[vote] and \[network], you're voting to decide which networks will&#x20;
+By creating or supporting Ideas with the tags \[updraft] \[vote] and \[networks], you're voting to decide which networks will&#x20;
 
 * Have support in Updraft. People will be able to perform functions using supported networks and see combined results from them.
 * Have liquidity pools for the Updraft token (UPD).
@@ -25,7 +25,7 @@ Voting will start with the deployment of the Updraft smart contracts on Arbitrum
 
 ### Results
 
-The top ten networks will be supported in the Updraft App.
+Any network with over 10% of the total 🔥interest in Ideas with the \[updraft] \[vote] and \[networks] tags will be supported in the Updraft App.
 
-The top ten networks will have UPD liquidity pools deployed on them. The amount of UPD deployed on each network will be proportional to the 🔥interest it received.
+The winning networks will have UPD liquidity pools deployed on them. The amount of UPD deployed on each network will be proportional to the 🔥interest it received.
 

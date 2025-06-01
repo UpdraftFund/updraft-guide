@@ -29,7 +29,9 @@ Voting will start with the deployment of the Updraft smart contracts on Arbitrum
 
 ### Results
 
-The top ten stablecoins will be included in the "Create Solution" token dropdown in order of 🔥interest.
+Any stablecoin with over 10% of the total 🔥interest in Ideas with the \[updraft] \[vote] and \[stablecoins] tags will be supported in the Updraft App.
 
-The top ten stablecoins will be paired with UPD in at least one liquidity pool. The amounts paired will be proportional to the 🔥interest each choice received.
+The winning stablecoins will be included in the "Create Solution" token dropdown in order of 🔥interest.
+
+The winning stablecoins will be paired with UPD in at least one liquidity pool. The amounts paired will be proportional to the 🔥interest each choice received.
 
