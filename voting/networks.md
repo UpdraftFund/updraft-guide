@@ -27,5 +27,5 @@ Voting will start with the deployment of the Updraft smart contracts on Arbitrum
 
 Any network with over 10% of the total 🔥interest in Ideas with the \[updraft] \[vote] and \[networks] tags will be supported in the Updraft App.
 
-The winning networks will have UPD liquidity pools deployed on them. The amount of UPD deployed on each network will be proportional to the 🔥interest it received.
+The winning networks will have UPD liquidity pools deployed on them. The amount of UPD deployed on a network will be proportional to the 🔥interest it received.
 
