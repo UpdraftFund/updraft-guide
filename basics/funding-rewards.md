@@ -8,7 +8,7 @@ When an Idea or Solution offers a funder reward, you will see a gift 🎁 icon f
 
 ## Funder reward amount
 
-When someone creates an Idea, the funder reward is set to 5% by default.
+When someone creates an Idea, the funder reward is set to 10% by default.
 
 When someone drafts a Solution,  they can choose any percentage for the funder reward. Their choice creates a balance between allowing funders to earn and directly funding the Solution.
 

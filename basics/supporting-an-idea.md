@@ -17,7 +17,7 @@ Each time you support an Idea, you create a _position_ in that Idea.
 When you withdraw from a position, you receive your original contribution, minus any 🎁 funder reward and anti-spam fees you paid, plus any amount you earned from 🎁 funder rewards.
 
 {% hint style="info" %}
-The default 🎁 funder reward for Ideas is 5%. The anti-spam fee is typically 1%.
+The default 🎁 funder reward for Ideas is 10%. The anti-spam fee is typically 1%.
 {% endhint %}
 
 ### Multiple positions
