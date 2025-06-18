@@ -8,16 +8,16 @@ Campaigns direct attention toward a theme or topic by committing funds to reward
 
 Campaigns are visible in the Tasks section of the home page. They are ordered by the value of the committed funds.
 
-## Creating a campaign
+## Creating a Campaign
 
-Make a proposal in the [campaigns channel of the Updraft discord](https://discord.gg/w8At3Vd74K) to create a campaign.
+Start in the [campaigns channel of the Updraft discord](https://discord.gg/w8At3Vd74K) to fill the form to create a campaign.
 
-When creating a campaign, please provide
+Information you can include:
 
 * Campaign name
 * Description
 * Image
-* Link that provides more info for participants
+* Link that provides more information for participants
 * Committed funds.
   * Which tokens besides UPD are you including in your committed funds? Committing funds in a community token are a great way to encourage drafters to accept funding in that token.
   * Which wallet addresses will distribute the funds?
@@ -32,7 +32,13 @@ Clicking the action button on the Campaign leads to the "search by tags" results
 
 Ideas using your tag combination are ordered by 🔥, which signifies community interest.
 
-## Applying committed funds
+## Campaign Ideas
+
+When creating an Idea, there's an option for creators to join your campaign by using its tags.
+
+<figure><img src="../.gitbook/assets/campaign-tags.png" alt=""><figcaption><p>Select a Campaign to add its tags to your Idea</p></figcaption></figure>
+
+## Applying Committed Funds
 
 ### Airdrops
 

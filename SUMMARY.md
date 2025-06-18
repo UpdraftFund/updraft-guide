@@ -9,6 +9,7 @@
 * [✅ Supporting an Idea](basics/supporting-an-idea.md)
 * [💸 Funding a Solution](basics/funding-a-solution.md)
 * [👥 Profiles](basics/profiles.md)
+* [🔆 Creating an Idea](basics/creating-an-idea.md)
 * [📃 Drafting a Solution](basics/drafting-a-solution.md)
 * [⚒️ Updating a Solution](basics/updating-a-solution.md)
 
