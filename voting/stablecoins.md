@@ -4,14 +4,10 @@ icon: coin-blank
 
 # Stablecoins
 
-By creating or supporting Ideas with the tags \[updraft] \[vote] and \[stablecoins], you're voting to decide which stablecoins will be:
+The "Updraft Stablecoins" campaign allows anyone to vote on which stablecoins will be
 
-* Included in the funding token dropdown list in the "Create Solution" page.
-* Paired with UPD in liquidity pools deployed on supported networks.
-
-{% content-ref url="networks.md" %}
-[networks.md](networks.md)
-{% endcontent-ref %}
+* Included in the funding token dropdown list in the "[Draft a Solution](../basics/drafting-a-solution.md)" page.
+* Paired with UPD in liquidity pools deployed on supported [networks](networks.md).
 
 ## Rules
 

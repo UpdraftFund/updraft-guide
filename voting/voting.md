@@ -1,18 +1,20 @@
 # 🗳️ Voting
 
-Ideas on Updraft can be used as choices and receive votes.
+Ideas on Updraft can be used for voting, as follows.
 
-Voting can be accomplished as follows.
+1. Someone interested in holding a vote creates a [Campaign](../advanced-topics/campaigns.md) and a set of tags that Ideas should use to be included as choices in the vote.
+2. Participants create choices by [creating Ideas](../basics/creating-an-idea.md) with the Campaign's tags. They can do this easily by selecting the Campaign when creating the Idea.
 
-1. Anyone can organize a vote by designating a combination of tags to be used in Ideas, for example \[updraft] \[vote] \[networks].
-2. People create Ideas using those tags.
-3. Other people support those Ideas.
-4. The winning choice is the Idea with the most 🔥at the end of the voting period.
+<figure><img src="../.gitbook/assets/campaign-tags.png" alt="" width="527"><figcaption><p>Select a Campaign to add its tags to your Idea</p></figcaption></figure>
 
-An advantage of voting this way is that early voters can be paid by later voters via 🎁 funder rewards.
+3. The creator of an Idea makes a deposit which counts toward the Idea's vote total.
+4. Other participants [support the Idea](../basics/supporting-an-idea.md), also adding to its vote total.
+5. Choices (Ideas) are ordered by 🔥interest at the end of the voting period.
+
+Click the Campaign button to show choices (Ideas) that have already been created.
+
+<figure><img src="../.gitbook/assets/updraft-networks-campaign.png" alt="" width="410"><figcaption><p>Click the button to see choices for this vote.</p></figcaption></figure>
+
+Because choices are Ideas, early supporters of a choice can earn [🎁 funder rewards](../basics/funding-rewards.md) from later voters.
 
 See [Attention Streams](https://docs.google.com/document/d/1TKA-K8YadRdgz-Qek01TUcCkRaI9CKCXGtJ31AbVWIU/edit?usp=sharing) for a more detailed consideration of voting incentives.
-
-{% content-ref url="../basics/funding-rewards.md" %}
-[funding-rewards.md](../basics/funding-rewards.md)
-{% endcontent-ref %}

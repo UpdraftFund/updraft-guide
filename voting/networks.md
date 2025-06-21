@@ -4,7 +4,7 @@ icon: chart-network
 
 # Networks
 
-By creating or supporting Ideas with the tags \[updraft] \[vote] and \[networks], you're voting to decide which networks will&#x20;
+The "Updraft Networks" campaign allows anyone to vote on which networks will
 
 * Have support in Updraft. People will be able to perform functions using supported networks and see combined results from them.
 * Have liquidity pools for the Updraft token (UPD).
